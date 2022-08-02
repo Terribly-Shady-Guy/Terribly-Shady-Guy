@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Terribly-Shady-Guy
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning to be a better developer
-- 💞️ I’m looking to collaborate on currently open
+- 💞️ I’m looking to collaborate on currently open for ideas
 - 📫 How to reach me: Discord: Terribly-Shady-Guy#5427
 
 <!---
