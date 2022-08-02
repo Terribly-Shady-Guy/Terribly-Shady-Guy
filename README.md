@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Terribly-Shady-Guy
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning asp.net core
+- 🌱 I’m currently learning asp.net core and possibly laravel
 - 💞️ I’m looking to collaborate on currently open for ideas
 - 📫 How to reach me: Discord: Terribly-Shady-Guy#5427
 
